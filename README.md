@@ -87,6 +87,7 @@ _______________________________________________________________________
   efetuado o passo a seguir:
 
 * **Conexao entre o repositorio local e remoto:**
+  -----------------------------------------------
 
   git remote add origin + ( url do repositorio remoto )
 
@@ -94,6 +95,9 @@ _______________________________________________________________________
 
   A partir de um REPOSITORIO LOCAL - Git, conectar a um servidor, um REPOSITORIO REMOTO - 
   GitHub
+
+### COPIANDO UMA PASTA NO GITHUB NA QUAL SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT LOCAL
+
 
   
 
