@@ -1,6 +1,6 @@
-                                                                              #GitHub
+# GitHub
 
-# Conceitos básicos e úteis sobre o GitHub
+## Conceitos básicos e úteis sobre o GitHub
 
 Plataforma para:
 
@@ -34,6 +34,7 @@ ___________________________
   git config --global user.email y_anie@hotmail.com
 
 ### COMANDOS BÁSICOS
+----------------------
 
 
 * Comando para limpar o terminal
@@ -85,7 +86,7 @@ _______________________________________________________________________
   É necessário estar conectado a um repositóro remoto GITHUB, se não estiver precisa ser 
   efetuado o passo a seguir:
 
-* ####***Conexao entre o repositório local e remoto:***
+* #### ***Conexao entre o repositório local e remoto:***
 
   git remote add origin + ( url do repositorio remoto )
 
@@ -94,7 +95,7 @@ _______________________________________________________________________
   A partir de um REPOSITORIO LOCAL - Git, conectar a um servidor, um REPOSITORIO REMOTO - 
   GitHub
 
-### COPIANDO UMA PASTA NO GITHUB NA QUAL SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT LOCAL
+### COPIANDO UMA PASTA/REPOSITÓRIO NO GITHUB NA QUAL SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT LOCAL
 _______________________________________________________________________________________________
 
 
