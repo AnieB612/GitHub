@@ -35,7 +35,7 @@ ___________________________
   git config --global user.email y_anie@hotmail.com
 
 ### COMANDOS BÁSICOS
-_____________________
+
 
 * Comando para limpar o terminal
   
@@ -86,7 +86,7 @@ _______________________________________________________________________
   É necessário estar conectado a um repositóro remoto GITHUB, se não estiver precisa ser 
   efetuado o passo a seguir:
 
-* **Conexao entre o repositorio local e remoto:**
+* ** Conexao entre o repositorio local e remoto: **
   -----------------------------------------------
 
   git remote add origin + ( url do repositorio remoto )
@@ -97,6 +97,9 @@ _______________________________________________________________________
   GitHub
 
 ### COPIANDO UMA PASTA NO GITHUB NA QUAL SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT LOCAL
+_______________________________________________________________________________________________
+
+
 
 
   
