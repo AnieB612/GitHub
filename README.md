@@ -31,33 +31,40 @@ ___________________________
   git config --global user.name "anie"
   
 * Configurar o email
+  
   git config --global user.email y_anie@hotmail.com
 
 ### COMANDOS BÁSICOS
 _____________________
 
 * Comando para limpar o terminal
+  
   Ctrl + l
   clear
 
 * Lista todos os arquivos e pastas que há dentro de uma pasta
+  
   ls
 
 * Volta pastas
+  
   cd ..
 
 ###  CRIANDO UMA PASTA QUE SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT 
 _______________________________________________________________________
 
 * Criando uma pasta/diretorio
+  
   mkdir + ( nome criado )
 
 * Criando um repositório GIT, em main
+  
   git init + ( nome criado )
 
 Cria um repepositorio GIT , nao é um repositorio GitHub, apenas cria esse repositorio no programa GIT , este que podera fazer mudanças, e enviar dps para o GitHub depois.
 
 * Para entrar/mudar para dentro do diretorio local
+  
   cd .git
 
   Desde já e importante salientar que tudo que tem .git é porque esta escondido, assim sendo, 
