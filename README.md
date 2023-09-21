@@ -11,14 +11,12 @@ Existem duas formas de salvar, famoso versionar, os códigos que é:
 
 * Trazendo o código do GitHub
   
-             OU
-  
 * Enviando para o GitHub o código local salvo na máquina 
 
 ((Resumindo não passa de uma grande núvem de salvamento e edição ))
 
 ### CONFIGURAÇÃO BÁSICA
-___________________
+___________________________
 
 * Versão do Programa Instalado
   git --version
@@ -33,13 +31,39 @@ ___________________
   git config --global user.email y_anie@hotmail.com
 
 ### COMANDOS BÁSICOS
-  _____________________
+_____________________
 
 * Comando para limpar o terminal
   Ctrl + l
   clear
 
-*
+* Lista todos os arquivos e pastas que há dentro de uma pasta
+  ls
+
+* Volta pastas
+  cd ..
+
+###  CRIANDO UMA PASTA QUE SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT 
+_______________________________________________________________________
+
+* Criando uma pasta/diretorio
+  mkdir + ( nome criado )
+
+* Criando um repositório GIT, em main
+  git init + ( nome criado )
+
+Cria um repepositorio GIT , nao é um repositorio GitHub, apenas cria esse repositorio no programa GIT , este que podera fazer mudanças, e enviar dps para o GitHub depois.
+
+* Para entrar/mudar para dentro do diretorio local
+  cd .git
+
+  Desde já e importante salientar que tudo que tem .git é porque esta escondido, assim sendo, 
+  só é possivel ver as pastas que não sao visiveis mas estam ali, que sao os arquivos responsaveis pelo controle de versao. 
+
+  
+  
+
+
   
   
 
