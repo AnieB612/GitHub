@@ -99,8 +99,30 @@ _______________________________________________________________________
 _______________________________________________________________________________________________
 
 
+* Pasta a ser copiada do github para o computador
+ 
+  git clone + ( link da pasta )
+
+  Clona um repositorio remoto do GitHub  para o seu computador
+
+* Utiliza-se para mudar o nome da pasta que se clona do GitHub
+  
+  git clone + ( link da pasta ) + nome que quer chamar a pasta
+
+* Informaçoes da pasta
+
+  cat config ( dentro de cd .git)
+
+* Ver todos os repositorios remotos ao qual voce esta vinculado
+
+  git remote -v  (dentro de cd .git)
+
+*Obs.: 
+
+oring = nome padrao do servidor de onde a gente clonou a pasta
 
 
+  
   
 
   
