@@ -87,6 +87,7 @@ _______________________________________________________________________
   efetuado o passo a seguir:
 
 * Conexao entre o repositorio local e remoto:
+  ---------------------------------------------
 
   git remote add origin + ( url do repositorio remoto )
 
