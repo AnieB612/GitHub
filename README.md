@@ -106,19 +106,19 @@ ________________________________________________________________________________
  
   git clone + ( link da pasta )
 
-  Clona um repositorio remoto do GitHub  para o seu computador
+  - Clona um repositorio remoto do GitHub  para o seu computador
 
 * Utiliza-se para mudar o nome da pasta que se clona do GitHub
   
-  git clone + ( link da pasta ) + nome que quer chamar a pasta
+  - git clone + ( link da pasta ) + nome que quer chamar a pasta
 
 * Informaçoes da pasta
 
-  cat config ( dentro de cd .git)
+  - cat config ( dentro de cd .git)
 
 * Ver todos os repositorios remotos ao qual voce esta vinculado
 
-  git remote -v  (dentro de cd .git)
+  - git remote -v  (dentro de cd .git)
 
 *Obs.: 
 
@@ -129,7 +129,7 @@ SALVANDO ALTERAÇÕES NO REPOSITORIO LOCAL
 ___________________________________________________
 
 * Criando uma pasta/Diretorio
-  mkdir + ( nome criado )
+  - mkdir + ( nome criado )
 
 * Dentro da pasta criada em main
   - git init
@@ -139,7 +139,7 @@ OU
 * git init + ( nome criado )
 
 * Ver o estado da area de preparação
-  git status
+ - git status
 
   Detecta as alterações em um arquivo e avisa se está pronto para ser salvo
   Vê o status da arvore de preparação
