@@ -19,12 +19,15 @@ Existem duas formas de salvar, famoso versionar, os códigos que é:
 ___________________________
 
 * Versão do Programa Instalado
+  
   git --version
 
 * Comando para ver as informações a respeito do GIT
+  
   git config
 
 * Configurar o nome
+  
   git config --global user.name "anie"
   
 * Configurar o email
