@@ -50,6 +50,9 @@ ___________________________
 * Volta pastas
   
   cd ..
+  
+* Cria um arquivo vazio tipo MD
+  touch README.md 
 
 ###  CRIANDO UMA PASTA QUE SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT 
 _______________________________________________________________________
@@ -120,6 +123,31 @@ ________________________________________________________________________________
 *Obs.: 
 
 oring = nome padrao do servidor de onde a gente clonou a pasta
+
+
+SALVANDO ALTERAÇÕES NO REPOSITORIO LOCAL
+___________________________________________________
+
+* Criando uma pasta/Diretorio
+  mkdir + ( nome criado )
+
+* Dentro da pasta criada em main
+  - git init
+
+OU
+
+* git init + ( nome criado )
+
+* Ver o estado da area de preparação
+  git status
+
+  Detecta as alterações em um arquivo e avisa se está pronto para ser salvo
+  Vê o status da arvore de preparação
+  NÃO DECTA ARQUIVO VAZIO (.git)
+  
+
+  
+
 
 
   
