@@ -1,5 +1,4 @@
-                                                                              #GitHub 
-                                                                          ________________
+                                                                              #GitHub
 
 # Conceitos básicos e úteis sobre o GitHub
 
@@ -86,9 +85,7 @@ _______________________________________________________________________
   É necessário estar conectado a um repositóro remoto GITHUB, se não estiver precisa ser 
   efetuado o passo a seguir:
 
-* ***Conexao entre o repositorio local e remoto:***
-
-           
+* ####***Conexao entre o repositório local e remoto:***
 
   git remote add origin + ( url do repositorio remoto )
 
