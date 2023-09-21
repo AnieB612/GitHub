@@ -40,6 +40,7 @@ _____________________
 * Comando para limpar o terminal
   
   Ctrl + l
+
   clear
 
 * Lista todos os arquivos e pastas que há dentro de uma pasta
@@ -61,14 +62,16 @@ _______________________________________________________________________
   
   git init + ( nome criado )
 
-Cria um repepositorio GIT , nao é um repositorio GitHub, apenas cria esse repositorio no programa GIT , este que podera fazer mudanças, e enviar dps para o GitHub depois.
+  Cria um repepositorio GIT , nao é um repositorio GitHub, apenas cria esse repositorio no 
+  programa GIT , este que podera fazer mudanças, e enviar dps para o GitHub depois.
 
 * Para entrar/mudar para dentro do diretorio local
   
   cd .git
 
   Desde já e importante salientar que tudo que tem .git é porque esta escondido, assim sendo, 
-  só é possivel ver as pastas que não sao visiveis mas estam ali, que sao os arquivos responsaveis pelo controle de versao. 
+  só é possivel ver as pastas que não sao visiveis mas estam ali, que sao os arquivos 
+  responsaveis pelo controle de versao. 
 
   
   
