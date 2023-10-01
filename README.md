@@ -89,7 +89,7 @@ _______________________________________________________________________
   É necessário estar conectado a um repositóro remoto GITHUB, se não estiver precisa ser 
   efetuado o passo a seguir:
 
-* #### ***Conexao entre o repositório local e remoto:***
+* ### ***Conexao entre o repositório local e remoto:***
 
   git remote add origin + ( url do repositorio remoto )
 
@@ -101,49 +101,54 @@ _______________________________________________________________________
 ### COPIANDO UMA PASTA/REPOSITÓRIO NO GITHUB NA QUAL SE DESEJA TRANSFORMAR EM UM REPOSITORIO GIT LOCAL
 _______________________________________________________________________________________________
 
-
 * Pasta a ser copiada do github para o computador
  
   git clone + ( link da pasta )
 
-  - Clona um repositorio remoto do GitHub  para o seu computador
+   Clona um repositorio remoto do GitHub  para o seu computador
 
 * Utiliza-se para mudar o nome da pasta que se clona do GitHub
   
-  - git clone + ( link da pasta ) + nome que quer chamar a pasta
+   git clone + ( link da pasta ) + nome que quer chamar a pasta
 
 * Informaçoes da pasta
 
-  - cat config ( dentro de cd .git)
+   cat config ( dentro de cd .git)
 
 * Ver todos os repositorios remotos ao qual voce esta vinculado
 
-  - git remote -v  (dentro de cd .git)
+   git remote -v  (dentro de cd .git)
 
 *Obs.: 
 
 oring = nome padrao do servidor de onde a gente clonou a pasta
 
 
-SALVANDO ALTERAÇÕES NO REPOSITORIO LOCAL
+### SALVANDO ALTERAÇÕES NO REPOSITORIO LOCAL
 ___________________________________________________
 
 * Criando uma pasta/Diretorio
-  - mkdir + ( nome criado )
+   mkdir + ( nome criado )
 
 * Dentro da pasta criada em main
-  - git init
+   git init
 
 OU
 
 * git init + ( nome criado )
 
 * Ver o estado da area de preparação
- - git status
+  git status
 
   Detecta as alterações em um arquivo e avisa se está pronto para ser salvo
   Vê o status da arvore de preparação
   NÃO DECTA ARQUIVO VAZIO (.git)
+
+* touch README.md = cria um arquivo vazio tipo MD
+
+
+
+  
   
 
   
