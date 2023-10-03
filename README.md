@@ -359,7 +359,7 @@ git checkout -b ( nome da nova branch )
 
 git checkout -b teste
      
-* Sai da branch que se está
+* Sai da branch que se está e entra na outra que se quer estar 
   
 git checkout + ( nome da branch )
 
