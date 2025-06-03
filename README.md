@@ -27,11 +27,11 @@ ___________________________
 
 * Configurar o nome
   
-  git config --global user.name "anie"
+  git config --global user.name
   
 * Configurar o email
   
-  git config --global user.email y_anie@hotmail.com
+  git config --global user.email
 
 ### COMANDOS BÁSICOS
 ----------------------
@@ -155,7 +155,7 @@ ECHO - criaçao de arquivos, pode ser MD tmb
 
 echo "#commit-1-branch-main" ( assunto que estara dentro da pasta ) > commit-1-branch-main.txt ( nome que sera salvo )
 
-echo "# oi gososa " > commit-2-branch-main.txt
+echo "# oi go " > commit-2-branch-main.txt
 
 
   Dentro de main/pasta:
